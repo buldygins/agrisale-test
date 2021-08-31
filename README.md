@@ -3,6 +3,7 @@
 ```shell script
 composer install
 npm install
+npm run dev
 ```
 после выполнения миграций можно запустить сид
 ```shell script
